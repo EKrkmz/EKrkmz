@@ -4,7 +4,7 @@
 
 I have the ambition to become an iOS Developer. Therefore, I study and learn new things about Swift, design patterns, frameworks, version control, etc., every day. I make little iOS projects to practice the subjects I have learned in this process.  
 
-### Skills and Experiences:
+### Skills and Experiences
 - Swift, Java, OOP, MVC
 - iOS, UIKit 
 - Core Data, SQLite, Realm, Firebase
