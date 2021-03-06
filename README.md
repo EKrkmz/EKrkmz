@@ -1,13 +1,19 @@
 ### Hi there 👋, I'm Elif 
-#### Junior iOS Developer
+#### Computer Engineering student
 ![Junior iOS Developer](https://media-exp1.licdn.com/dms/image/C4E16AQFQSxCnbM4sYw/profile-displaybackgroundimage-shrink_350_1400/0/1615024816697?e=1620259200&v=beta&t=4X_YdftIUzBqoohiNpnCkiYB-9lpsrqkDK0rMv7_rVo)
 
 I have the ambition to become an iOS Developer. Therefore, I study and learn new things about Swift, design patterns, frameworks, version control, etc., every day. I make little iOS projects to practice the subjects I have learned in this process.  
 
-Skills: iOS / Swift / CocoaPods / Firebase 
+### Skills and Experiences:
+- Swift, Java, OOP, MVC
+- iOS, UIKit 
+- Core Data, SQLite, Realm, Firebase
+- CocoaPods, Git
+- REST API, Alamofire, SwiftyJSON
+- Storyboard, XIB, Programmatic UI, SnapKit
 
-- 🔭 I’m currently working on my graduation project that is a type of health care mobile application 
-- 🌱 I’m currently learning iOS Programming 
+- 🔭 I’m currently working on my graduation project that is a type of health care mobile application.
+- 🌱 I’m currently learning when and how to use design patterns like MVVM, Delegation, Singleton, and Observer. Also I'm trying to get better at programmatic UI.
 - 📫 How to reach me: korkmazelif7797@gmail.com 
 
 
