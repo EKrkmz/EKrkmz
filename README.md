@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Elif 
 #### Junior iOS Developer
-![Junior iOS Developer](https://www.canva.com/design/DAEX-eAU9RY/zrH5vzF0wWW8Box2HYiZUw/view?utm_content=DAEX-eAU9RY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink.png)
+![Junior iOS Developer](https://media-exp1.licdn.com/dms/image/C4E16AQFQSxCnbM4sYw/profile-displaybackgroundimage-shrink_350_1400/0/1615024816697?e=1620259200&v=beta&t=4X_YdftIUzBqoohiNpnCkiYB-9lpsrqkDK0rMv7_rVo)
 
 I have the ambition to become an iOS Developer. Therefore, I study and learn new things about Swift, design patterns, frameworks, version control, etc., every day. I make little iOS projects to practice the subjects I have learned in this process.  
 
