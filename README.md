@@ -1,21 +1,23 @@
-### Hi there 👋, I'm Elif 
-#### Computer Engineering student
-![Junior iOS Developer](https://media-exp1.licdn.com/dms/image/C4E16AQFQSxCnbM4sYw/profile-displaybackgroundimage-shrink_350_1400/0/1615024816697?e=1620259200&v=beta&t=4X_YdftIUzBqoohiNpnCkiYB-9lpsrqkDK0rMv7_rVo)
+## Hi there 👋, I'm Elif. 
+### I have studied Computer Engineering at İstanbul Aydın University. 
+### I currently work as an iOS Developer Intern at Hepsiburada.
 
-I have the ambition to become an iOS Developer. Therefore, I study and learn new things about Swift, design patterns, frameworks, version control, etc., every day. I make little iOS projects to practice the subjects I have learned in this process.  
+There are so many topics that I study every day on my journey to become an iOS Developer. I will try to share some of them here. I also write on Medium in my spare time. 
 
-### Skills and Experiences
-- Swift, Java, OOP, MVC
-- iOS, UIKit 
-- Core Data, SQLite, Realm, Firebase
-- CocoaPods, Git
-- REST API, Alamofire, SwiftyJSON
-- Storyboard, XIB, Programmatic UI, SnapKit
+## Skills, Experiences, Currently Working on
+- Swift, Data Structures and Algorithms, SOLID Principles, Protocol Oriented Programming
+- MVC, MVVM, VIPER
+- Foundation, UIKit, Core Data
+- Working with third-party libraries via CocoaPods and SPM
+- User Interfaces via Storyboard, XIB and Code
+- Unit & UI Testing
 
-- 🔭 I’m currently working on my graduation project that is a type of health care mobile application.
-- 🌱 I’m currently learning when and how to use design patterns like MVVM, Delegation, Singleton, and Observer. Also I'm trying to get better at programmatic UI.
 - 📫 How to reach me: korkmazelif7797@gmail.com 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EKrkmz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/elifkorkmaz97/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/elif_krkmzz/)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/elifkorkmaz97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elifkorkmaz97" height="30" width="40" /></a>
+<a href="https://instagram.com/elif_krkmzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elif_krkmzz" height="30" width="40" /></a>
+<a href="https://medium.com/@elifkrkmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elifkrkmz" height="30" width="40" /></a>
+</p>
 
