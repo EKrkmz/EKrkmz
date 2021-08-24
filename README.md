@@ -17,7 +17,9 @@ There are so many topics that I study every day on my journey to become an iOS D
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/elifkorkmaz97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elifkorkmaz97" height="30" width="40" /></a>
+  <a href="https://medium.com/@elifkrkmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elifkrkmz" height="30" width="40" /></a>
+   <a href="https://twitter.com/elif_krkmzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@elif_krkmzz" height="30" width="40" /></a>
 <a href="https://instagram.com/elif_krkmzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elif_krkmzz" height="30" width="40" /></a>
-<a href="https://medium.com/@elifkrkmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elifkrkmz" height="30" width="40" /></a>
+
 </p>
 
