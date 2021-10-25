@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Elif. 
 ### I have studied Computer Engineering at İstanbul Aydın University. 
-### I currently work as an iOS Developer Intern at Hepsiburada.
+### I currently work as an iOS Developer at Hepsiburada.
 
 There are so many topics that I study every day on my journey to become an iOS Developer. I will try to share some of them here. I also write on Medium in my spare time. 
 
